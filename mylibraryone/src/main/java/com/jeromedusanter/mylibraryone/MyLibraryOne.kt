@@ -9,4 +9,8 @@ object MyLibraryOne {
     private fun doSomethingElse() {
 
     }
+
+    fun doSomethingAgain() {
+
+    }
 }
