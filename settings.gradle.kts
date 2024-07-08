@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "MySdk"
 include(":mylibraryone")
+include(":mylibrarytwo")
